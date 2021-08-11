@@ -100,7 +100,7 @@ def countries2(name):
             'president': 'Реджеп Тайип Эрдоган'
         },
         'georgia': {
-            'name': 'греция',
+            'name': 'грузия',
             'population': '3 720 000 чел',
             'area': '69 700 км2',
             'year of foundation': 1991,
